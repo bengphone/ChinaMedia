@@ -1,4 +1,5 @@
 # China Area Network
+HOST,m.toutiao.com,DIRECT
 DOMAIN-SUFFIX,flyert.com,DIRECT
 DOMAIN-SUFFIX,gandi.net,DIRECT
 DOMAIN-SUFFIX,snapdrop.net,DIRECT
@@ -69,6 +70,5 @@ DOMAIN-SUFFIX,redacted.ch,DIRECT
 DOMAIN-SUFFIX,springsunday.net,DIRECT
 DOMAIN-SUFFIX,tjupt.org,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
-HOST,m.toutiao.com,DIRECT
 
 GEOIP,CN,DIRECT
