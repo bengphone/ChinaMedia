@@ -1,6 +1,7 @@
 # China Area Network
 HOST,www.zz123.com,DIRECT
 HOST,m.toutiao.com,DIRECT
+HOST-KEYWORD, tvok, DIRECT
 DOMAIN-SUFFIX,flyert.com,DIRECT
 DOMAIN-SUFFIX,gandi.net,DIRECT
 DOMAIN-SUFFIX,snapdrop.net,DIRECT
