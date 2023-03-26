@@ -73,4 +73,22 @@ DOMAIN-SUFFIX,springsunday.net,DIRECT
 DOMAIN-SUFFIX,tjupt.org,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
 
+#Zlibary List
+HOST, mirror.yibook.org,  DIRECT
+HOST, zlibary.ml,  DIRECT
+HOST, zlibary.tk, DIRECT
+HOST, zlibary.cf, DIRECT
+HOST, zlibary.gg, DIRECT
+HOST, search.zhelper.net, DIRECT
+HOST, d.zlib.app, DIRECT
+HOST, d2.zlib.app, DIRECT
+HOST, d3.zlib.app, DIRECT
+HOST, d4.zlib.app, DIRECT
+HOST, d5.zlib.app, DIRECT
+HOST, d6.zlib.app, DIRECT
+HOST, d7.zlib.app, DIRECT
+HOST, d8.zlib.app, DIRECT
+HOST, d2.zlib.app, DIRECT
+HOST, zlib.jg12123.one , DIRECT
+
 GEOIP,CN,DIRECT
