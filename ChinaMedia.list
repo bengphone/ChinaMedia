@@ -90,7 +90,5 @@ HOST, d7.zlib.app, DIRECT
 HOST, d8.zlib.app, DIRECT
 HOST, d2.zlib.app, DIRECT
 HOST, zlib.jg12123.one , DIRECT
-HOST, singlelogin.me , DIRECT
-HOST, lib-vupbz6u6wm4h4rdremcgbg4p.1lib.cz , DIRECT
 
 GEOIP,CN,DIRECT
