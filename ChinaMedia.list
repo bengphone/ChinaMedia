@@ -1,5 +1,6 @@
 # China Area Network
-HOST,www.pansearch.me,DIRECT
+HOST, www.telsearch.me, DIRECT
+HOST,www.pansea.me,DIRECT
 HOST,www.zz123.com,DIRECT
 HOST,m.toutiao.com,DIRECT
 HOST-KEYWORD, tvok, DIRECT
