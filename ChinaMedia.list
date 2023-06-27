@@ -7,6 +7,10 @@ HOST-SUFFIX,ucweb.com,DIRECT
 HOST,drive-m.quark.cn,DIRECT
 HOST,api2-album.quark.cn,DIRECT
 HOST,unpm-upaas.quark.cn,DIRECT
+HOST,na61-ucc-upaas.quark.cn,DIRECT
+HOST,na61-rmbsync-upaas.quark.cn,DIRECT
+HOST,video-play-c-sz.drive.quark.cn,DIRECT
+HOST,video-play-c-zb.drive.quark.cn,DIRECT
 #
 HOST,www.hdhive.org,DIRECT
 HOST,cn-beijing-data.aliyundrive.net,DIRECT
