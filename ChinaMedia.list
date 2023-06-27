@@ -1,8 +1,10 @@
 # China Area Network
 #夸克
+HOST,drive-m.quark.cn,DIRECT
 HOST-SUFFIX,uc9.ucweb.com,DIRECT
 DOMAIN-SUFFIX,ucweb.com,DIRECT
 HOST-SUFFIX,ucweb.com,DIRECT
+#
 HOST,www.hdhive.org,DIRECT
 HOST,cn-beijing-data.aliyundrive.net,DIRECT
 HOST,newxiaozhan.com,DIRECT
