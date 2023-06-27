@@ -1,7 +1,7 @@
 # China Area Network
 #夸克
 HOST-SUFFIX,uc9.ucweb.com,DIRECT
-HOST-SUFFIX,ucweb.com,DIRECT
+host-suffix, ucweb.com, direct
 
 HOST,www.hdhive.org,DIRECT
 HOST,cn-beijing-data.aliyundrive.net,DIRECT
